@@ -3,7 +3,7 @@
 💻 Aspiring Data Analyst & AI/ML Engineer   
 📊 Passionate about Data Analytics, Visualization, and Machine Learning  
 🚀 Building projects using Python, Pandas, NumPy, MySQL, Excel, Power BI & Matplotlib                                  
-📩 Open for internships, collaborations and freelance projects.
+📩 Open for internships, collaborations and freelance projects.                                                        
 😄 **Pronouns:**codilogy                                                                                               
 ⚡ Fun fact: I enjoy building useful tech projects and exploring new AI tools.                                         
 📫 **How to reach me:** vikaskgupt9044@gmail.com
