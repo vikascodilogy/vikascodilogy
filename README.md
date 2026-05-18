@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 👋 Hey there! I'm **Vikas**  
-🎓 Recently graduated in **Bachelor of Computer Science (BCS) - 2026**  
+🎓 Recently graduated in **Bachelor of Computer Application (BCA) - 2026**  
 
 💻 Passionate **Data Analyst** with a strong interest in transforming raw data into meaningful insights.  
 🤖 Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter solutions and real-world projects.  
@@ -35,6 +35,7 @@
 
 📺 **YouTube:** Codilogy (**515+ Subscribers**)  
 📸 **Instagram:** @vikascodilogy (**82+ Followers**)  
+📫 **How to reach me:** vikaskgupt9044@gmail.com
 
 ---
 
@@ -49,15 +50,6 @@
 
 ✨ *"Turning data into insights and ideas into impactful projects."*
 
-
-
-💻 Aspiring Data Analyst & AI/ML Engineer   
-📊 Passionate about Data Analytics, Visualization, and Machine Learning  
-🚀 Building projects using Python, Pandas, NumPy, MySQL, Excel, Power BI & Matplotlib                                  
-📩 Open for internships, collaborations and freelance projects.                                                        
-😄 **Pronouns:**codilogy                                                                                               
-⚡ Fun fact: I enjoy building useful tech projects and exploring new AI tools.                                         
-📫 **How to reach me:** vikaskgupt9044@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vikascodilogy?igsh=MTdkcndwZnl6MndoeA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikas-kumar-gupta-21b866301?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@codilogy15?si=bv-j1v6zeHwEnwME) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikaskgupt9044@gmail.com) 
