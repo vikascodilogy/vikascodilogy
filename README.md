@@ -1,4 +1,55 @@
 # Hi 👋 I'm Vikas Kumar Gupta
+## 🚀 About Me  
+
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+👋 Hey there! I'm **Vikas**  
+🎓 Recently graduated in **Bachelor of Computer Science (BCS) - 2026**  
+
+💻 Passionate **Data Analyst** with a strong interest in transforming raw data into meaningful insights.  
+🤖 Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter solutions and real-world projects.  
+
+---
+
+### 🛠️ Tech Stack & Skills  
+
+🐍 **Programming:** Python, HTML, CSS  
+📚 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+🗄️ **Databases:** MySQL, PostgreSQL  
+📊 **Tools:** Excel, Power BI  
+⚡ **Frameworks:** Flask, Streamlit  
+
+---
+
+### 📌 What I Do  
+
+📈 Data Analysis & Visualization  
+🧹 Data Cleaning & Preprocessing  
+📊 Dashboard Building  
+🗃️ SQL Query Writing & Optimization  
+🤖 Beginner AI/ML Projects  
+
+---
+
+### 🌍 Connect With Me  
+
+📺 **YouTube:** Codilogy (**515+ Subscribers**)  
+📸 **Instagram:** @vikascodilogy (**82+ Followers**)  
+
+---
+
+### 🎯 Currently Learning  
+
+🧠 Machine Learning  
+🔍 Deep Learning Fundamentals  
+🚀 Open Source Contribution  
+📂 Real-world Data Analytics Projects  
+
+---
+
+✨ *"Turning data into insights and ideas into impactful projects."*
+
+
 
 💻 Aspiring Data Analyst & AI/ML Engineer   
 📊 Passionate about Data Analytics, Visualization, and Machine Learning  
