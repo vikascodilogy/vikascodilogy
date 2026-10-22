@@ -27,7 +27,7 @@
 🧹 Data Cleaning & Preprocessing  
 📊 Dashboard Building  
 🗃️ SQL Query Writing & Optimization  
-🤖 Beginner AI/ML Projects  
+🤖 BeginnerData Analysis & Visualization Projects  
 
 ---
 
