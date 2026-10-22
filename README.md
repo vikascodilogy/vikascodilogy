@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vikas Kumar Gupta
+# Hi 👋 I'm Vikas Gupt
 ## 🚀 About Me  
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
